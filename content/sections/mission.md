@@ -26,6 +26,8 @@ list:
     image: /images/Wallpaper4.jpeg
     subtitle: ''
     title: ''
+    enable:
+      value: true
   - quote: >-
       "Whenever there is a tragedy or catastrophe look for the helpers. There
       will always be helpers on the sidelines. Cause if you look for the
