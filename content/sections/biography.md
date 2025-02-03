@@ -1,6 +1,9 @@
 ---
 enable: true
-title: LET'S PLAY TOGETHER   ;-)
+title: >-
+  LET'S PLAY TOGETHER   ;-) fajsdlfjasl fasdljlasdjflk adsjfladsjflkdsaj
+  fkladsjflkadsjfkladsjfkladsjfklads jfklj asdklfjdsaklfjkl asjdflk jaldskfj
+  lkasdjf lkasdfjlk asdklflkf jaslkdfj laksdjflk asjdlfkj askld
 bio: >-
   Hi, I'm Barry - 3x exited Silicon Valley entrepreneur turned conscious
   capitalist. <br /><br />As CEO of SUPERNOVA, I lead a conscious collective of
@@ -22,8 +25,8 @@ button:
   link: https://calendly.com/stamos
 image: /Screenshot 2024-11-12 at 6.13.28 PM.png
 companyList:
-  - company: SUPERNOVA
-    image: /images/speaker-bio/supernova.png
+  - company: ''
+    image: ''
   - company: Miami
     image: /images/speaker-bio/Miami.png
   - company: Aximcom
@@ -32,5 +35,11 @@ companyList:
     image: /images/speaker-bio/oracle-response.png
   - company: 1heart
     image: /images/speaker-bio/heart.png
+  - company: SUPERNOVA
+    image: /images/speaker-bio/supernova.png
 draft: false
 ---
+* list
+* list 2
+* list 3
+* list
