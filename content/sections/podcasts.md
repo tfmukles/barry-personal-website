@@ -6,7 +6,7 @@ list:
   - enable: true
     head: Foundersasfa asd
     title: Love is The Human Accelerator asdfa
-    thumbnail: /images/Barry Podcast Human Future.png
+    thumbnail: /images/Miami made-1.jpg
     mediaLink_supports_spotify_youtube_vimeo: >-
       https://open.spotify.com/episode/3BRhQSQSVb7slH9iz2TTDB?si=YwTOWfq_SWWfZf1D81CQdQ
   - enable: true
