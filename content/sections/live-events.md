@@ -10,6 +10,6 @@ list:
   - enable: true
     title: Supernova Demo Day ⭐
     thumbnail: /images/podcasts/image-3.png
-    mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=G2SqSljZBy4
+    mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=G2SqSljZBy4 asdfa asdfa asdfa
 draft: false
 ---
