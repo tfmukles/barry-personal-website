@@ -25,8 +25,8 @@ button:
   link: https://calendly.com/stamos
 image: /Screenshot 2024-11-12 at 6.13.28 PM.png
 companyList:
-  - company: ''
-    image: ''
+  - company: themefisher
+    image: /images/09ce8d68-d3ed-4567-93ce-79abdd069e53.JPG
   - company: Miami
     image: /images/speaker-bio/Miami.png
   - company: Aximcom
