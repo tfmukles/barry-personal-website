@@ -6,7 +6,7 @@ subtitle: >-
   transformative experiences.
 list:
   - enable: true
-    title: Community Building | Miami made.
+    title: Community Building | Miami made. This is title bro.
     description: >-
       I am the co-founder of Miami made. with a mission to create a more
       collaborative startup ecosystem.
