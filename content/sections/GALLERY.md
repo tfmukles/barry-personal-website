@@ -5,7 +5,7 @@ galleryImageWidth: 250px
 animationSpeedForTop: 105s
 animationSpeedForBottom: 120s
 topList:
-  - image: /images/Screenshot 2025-01-06 at 8.43.30 AM.png
+  - image: media/public/images/SCR-20250128-npxy.png
     alt: gallery image
   - image: /images/gallery/02.png
     alt: gallery image
@@ -18,7 +18,7 @@ topList:
   - image: /images/WhatsApp Image 2024-11-19 at 6.32.54 PM.jpeg
     alt: ''
 bottomList:
-  - image: /flyer.jpeg
+  - image: /images/Barry Stamos Headshot.jpg
     alt: gallery image
   - image: /images/Jay Shetty.jpg
     alt: gallery image
