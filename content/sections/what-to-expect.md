@@ -1,7 +1,7 @@
 ---
 enable: true
 title: WHAT TO **EXPECT**
-image: /images/WhatsApp Image 2024-11-19 at 6.30.42 PM.jpeg
+image: /images/premium_photo-1664474619075-644dd191935f.jpeg
 quote: '"Impact the triple bottom line: profit, people & planet."'
 name: KEYNOTE SPEAKER
 button:
