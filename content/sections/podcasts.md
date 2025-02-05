@@ -3,6 +3,17 @@ enable: true
 title: PODCASTS WITH POSITIVITY
 subtitle: Barry is available for podcasts serving as a source of positivity.
 list:
+  - head: 'Human Future Podcast '
+    title: Unicorn Founder Reveals The Dark Side of Chasing Wealth
+    thumbnail: /images/Barry Thumbnail It's Not business, it's personal.jpeg
+    mediaLink_supports_spotify_youtube_vimeo: https://www.youtube.com/watch?v=_XTt3K7TiDc
+    enable: true
+  - head: Heading..
+    title: Title
+    thumbnail: /images/09ce8d68-d3ed-4567-93ce-79abdd069e53.JPG
+    mediaLink_supports_spotify_youtube_vimeo: fjsalfjlasjf asjdfa
+    enable:
+      value: true
   - enable: true
     head: Founders
     title: 'Miami Creators: Featuring Barry Stamos'
@@ -22,19 +33,8 @@ list:
   - enable: true
     head: Foundersasfa asd
     title: Love is The Human Accelerator.
-    thumbnail: /images/Barry Podcast Human Future.png
+    thumbnail: /images/advisor-brands/advisor_brand_11.png
     mediaLink_supports_spotify_youtube_vimeo: >-
       https://open.spotify.com/episode/3BRhQSQSVb7slH9iz2TTDB?si=YwTOWfq_SWWfZf1D81CQdQ
-  - head: 'Human Future Podcast '
-    title: Unicorn Founder Reveals The Dark Side of Chasing Wealth
-    thumbnail: /images/Barry Thumbnail It's Not business, it's personal.jpeg
-    mediaLink_supports_spotify_youtube_vimeo: https://www.youtube.com/watch?v=_XTt3K7TiDc
-    enable: true
-  - head: Heading..
-    title: Title
-    thumbnail: /images/09ce8d68-d3ed-4567-93ce-79abdd069e53.JPG
-    mediaLink_supports_spotify_youtube_vimeo: fjsalfjlasjf asjdfa
-    enable:
-      value: true
 draft: false
 ---
