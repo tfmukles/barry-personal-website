@@ -10,7 +10,7 @@ list:
     description: >-
       Barry co-founded 1heart where 95% of 1,000+ alumni received life-changing
       breakthroughs.
-    thumbnail: /images/Barry.jpeg
+    thumbnail: /images/Podcast-Palak-Patel.webp
     mediaLink_supports_youtube_vimeo: https://vimeo.com/395353806
   - enable: true
     title: Community Building | Miami made. This is title bro.
