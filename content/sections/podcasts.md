@@ -30,5 +30,11 @@ list:
     thumbnail: /images/Barry Thumbnail It's Not business, it's personal.jpeg
     mediaLink_supports_spotify_youtube_vimeo: https://www.youtube.com/watch?v=_XTt3K7TiDc
     enable: true
+  - head: Heading..
+    title: Title
+    thumbnail: /images/09ce8d68-d3ed-4567-93ce-79abdd069e53.JPG
+    mediaLink_supports_spotify_youtube_vimeo: fjsalfjlasjf asjdfa
+    enable:
+      value: true
 draft: false
 ---
