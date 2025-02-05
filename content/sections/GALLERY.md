@@ -5,7 +5,7 @@ galleryImageWidth: 250px
 animationSpeedForTop: 105s
 animationSpeedForBottom: 120s
 topList:
-  - image: media/public/images/SCR-20250128-npxy.png
+  - image: /images/Barry Bio Photo.png
     alt: gallery image
   - image: /images/gallery/02.png
     alt: gallery image
@@ -13,14 +13,14 @@ topList:
     alt: gallery image
   - image: /images/gallery/06.png
     alt: gallery image
-  - image: /images/Selfie.jpg
+  - image: /images/1-1-690x381.png
     alt: ''
   - image: /images/WhatsApp Image 2024-11-19 at 6.32.54 PM.jpeg
     alt: ''
 bottomList:
   - image: /images/Barry Stamos Headshot.jpg
     alt: gallery image
-  - image: /images/Jay Shetty.jpg
+  - image: /images/Acxiom.webp
     alt: gallery image
   - image: /images/barry.png
     alt: ''
