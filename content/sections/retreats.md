@@ -21,7 +21,7 @@ list:
     mediaLink_supports_youtube_vimeo: https://vimeo.com/357365479
   - title: Startup Ecosystem (Holiday Party)
     description: ''
-    thumbnail: /images/WhatsApp Image 2024-11-19 at 6.32.57 PM.jpeg
+    thumbnail: /images/Miami made-1.jpg
     mediaLink_supports_youtube_vimeo: https://vimeo.com/308586169
     enable: true
   - title: Thrive Together Tuesdays
