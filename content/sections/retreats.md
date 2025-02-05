@@ -6,6 +6,13 @@ subtitle: >-
   transformative experiences.
 list:
   - enable: true
+    title: Experience Guide For Work & Life Transformation.
+    description: >-
+      Barry co-founded 1heart where 95% of 1,000+ alumni received life-changing
+      breakthroughs.
+    thumbnail: /images/Barry.jpeg
+    mediaLink_supports_youtube_vimeo: https://vimeo.com/395353806
+  - enable: true
     title: Community Building | Miami made. This is title bro.
     description: >-
       I am the co-founder of Miami made. with a mission to create a more
@@ -22,12 +29,5 @@ list:
     thumbnail: /images/live-events/image-2.png
     mediaLink_supports_youtube_vimeo: https://vimeo.com/178041349
     enable: true
-  - enable: true
-    title: Experience Guide For Work & Life Transformation
-    description: >-
-      Barry co-founded 1heart where 95% of 1,000+ alumni received life-changing
-      breakthroughs.
-    thumbnail: /91ba6022-f374-4488-9d42-69465afcd391.JPG
-    mediaLink_supports_youtube_vimeo: https://vimeo.com/395353806
 draft: false
 ---
