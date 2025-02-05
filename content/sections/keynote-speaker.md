@@ -8,7 +8,7 @@ list:
   - badge: Motivation, Strategy & Innovation
     title: '**01** The Truth Behind Success: Wisdom From A Unicorn Founder'
     mediaLink_supports_youtube_vimeo: https:youtube.com
-    image: /IMG_0480.JPG
+    image: /images/09ce8d68-d3ed-4567-93ce-79abdd069e53.JPG
     imageAlt: keynotes image
     description: >-
       In this deeply personal and transformative keynote, Barry Stamos shares
@@ -32,9 +32,7 @@ list:
       sides of entrepreneurship can lead to real transformation—at work, at
       home, and within yourself.
     keytakeways:
-      - title: >-
-          **01** The Truth Behind Success: Wisdom From A Unicorn Founder
-          fajdflajs. asdfa asdf   asdfjasljdflasdjf lasdj asjdflas
+      - title: '**01** The Truth Behind Success: Wisdom From A Unicorn Founder'
       - title: >-
           Breakdowns Lead to Breakthroughs: Understand that failure and
           challenges are not the end—they are the starting point for growth.
