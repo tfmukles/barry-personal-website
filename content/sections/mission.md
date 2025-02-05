@@ -33,9 +33,9 @@ list:
       will always be helpers on the sidelines. Cause if you look for the
       helpers, you'll know there is hope."
     author: Mr. Rogers
-    image: /c8b3f5a7-39a8-4039-9b13-68b415e48d74.JPG
-    subtitle: ''
-    title: ''
+    image: /images/testimonials/patrick-hilsbos.jpg
+    subtitle: fghjkl;'
+    title: rtyuikl;
     enable: true
   - quote: >-
       "If we continue to accumulate only power and not wisdom, we will surely
