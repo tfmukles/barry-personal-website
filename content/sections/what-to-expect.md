@@ -1,6 +1,6 @@
 ---
 enable: true
-title: WHAT TO **EXPECT**
+title: WHAT TO EXPECT
 image: /images/0-bjt_0437.jpg
 quote: '"Impact the triple bottom line: profit, people & planet."'
 name: KEYNOTE SPEAKER
