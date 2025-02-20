@@ -11,8 +11,7 @@ items:
     quote: >-
       “Barry keynotes our annual summit with 1,800 attendees. He is one of the
       MOST IMPACTFUL speakers we've ever had!" 
-  - enable: true
-    name: Dan Springer
+  - name: Dan Springer
     image: /images/ds-logo-on-dark.png
     designation: CEO
     company: DocuSign
