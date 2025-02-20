@@ -18,7 +18,6 @@ items:
     quote: >-
       "Barry IGNITES the transformative spark in others for growth, innovation
       and impact."
-    enable: true
   - enable: true
     name: Matti Anttila
     image: /ypo-logo-white.png
