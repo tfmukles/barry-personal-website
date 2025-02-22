@@ -1,6 +1,6 @@
 ---
 enable: true
-title: MOST POPULAR TALKS fadsfas
+title: MOST POPULAR TALKS fadsfasfad
 subtitle: >-
   He tailors his talks to meet audiences' needs to spark world-changing
   realities. 
@@ -274,5 +274,5 @@ list:
       session, you will be equipped with a clear vision of how AI is shaping
       tomorrow's world today and the practical knowledge to leverage AI in ways
       that will future-proof your career, business, and life.
-draft: true
+draft: false
 ---
