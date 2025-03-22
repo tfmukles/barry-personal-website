@@ -7,7 +7,7 @@ subtitle: >-
 list:
   - head: Entrepreneurship
     title: The Light & Dark Side of Startup Life
-    mediaLink_supports_youtube_vimeo: ''
+    mediaLink_supports_youtube_vimeo: fsadf asdfa
     description: >-
       Startups are hard, very hard. Scaling and successfully exiting is even
       more challenging. Navigating the startup world can be a rollercoaster of
