@@ -1,13 +1,13 @@
 ---
 enable: true
-title: WHAT THEY ARE SAYING....
+title: 'What is '
 subtitle: 'Barry’s impact makes all the difference at your events. '
 items:
   - enable: true
     name: Dan Springer
-    image: /ds-logo-on-dark.png
+    image: /images/1-1-690x381.png
     designation: DocuSign
-    company: 'Chief Executive Officer '
+    company: Company
     quote: >-
       "Barry IGNITES the transformative spark in others for growth, innovation
       and impact."
