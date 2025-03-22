@@ -10,7 +10,7 @@ list:
     description: >-
       Barry co-founded 1heart where 95% of 1,000+ alumni received life-changing
       breakthroughs.
-    thumbnail: /91ba6022-f374-4488-9d42-69465afcd391.JPG
+    thumbnail: /images/Navigating-the-2024-Total-Solar-Eclipse-Safely.webp
     mediaLink_supports_youtube_vimeo: https://vimeo.com/395353806
   - enable: true
     title: Community Building | Miami made.
