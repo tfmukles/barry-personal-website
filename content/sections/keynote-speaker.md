@@ -1,6 +1,6 @@
 ---
 enable: true
-title: MOST POPULAR TALKS fadsfasfad asdfa
+title: MOST POPULAR TALKS
 subtitle: >-
   He tailors his talks to meet audiences' needs to spark world-changing
   realities. 
