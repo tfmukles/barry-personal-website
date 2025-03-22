@@ -5,12 +5,6 @@ subtitle: Barry is available for podcasts serving as a source of positivity.
 list:
   - enable: true
     head: Founders
-    title: Love is The Human Accelerator
-    thumbnail: /Barry Stamos Dear First Time Founders.png
-    mediaLink_supports_spotify_youtube_vimeo: >-
-      https://open.spotify.com/episode/3BRhQSQSVb7slH9iz2TTDB?si=YwTOWfq_SWWfZf1D81CQdQ
-  - enable: true
-    head: Founders
     title: 'Miami Creators: Featuring Barry Stamos'
     thumbnail: /Miami Creators.webp
     mediaLink_supports_spotify_youtube_vimeo: >-
@@ -30,5 +24,15 @@ list:
     thumbnail: /images/Barry Thumbnail It's Not business, it's personal.jpeg
     mediaLink_supports_spotify_youtube_vimeo: https://www.youtube.com/watch?v=_XTt3K7TiDc
     enable: true
-
+  - enable: true
+    head: Founders
+    title: Love is The Human Accelerator
+    thumbnail: /Barry Stamos Dear First Time Founders.png
+    mediaLink_supports_spotify_youtube_vimeo: >-
+      https://open.spotify.com/episode/3BRhQSQSVb7slH9iz2TTDB?si=YwTOWfq_SWWfZf1D81CQdQ
+  - head: 'this is head '
+    title: this title
+    thumbnail: /images/0-bjt_0437.jpg
+    mediaLink_supports_spotify_youtube_vimeo: https://youtube.com
+    enable: true
 ---
