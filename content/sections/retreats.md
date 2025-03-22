@@ -25,7 +25,7 @@ list:
     mediaLink_supports_youtube_vimeo: https://vimeo.com/308586169
     enable: true
   - title: Thrive Together Tuesdays
-    description: ''
+    description: This is description
     thumbnail: /images/live-events/image-2.png
     mediaLink_supports_youtube_vimeo: https://vimeo.com/178041349
     enable: true
