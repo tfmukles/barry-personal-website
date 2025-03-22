@@ -5,7 +5,7 @@ subtitle: >-
   He tailors his talks to meet audiences' needs to spark world-changing
   realities. 
 list:
-  - badge: Motivation, Strategy & Innovation
+  - badge: Motivation, Strategy
     title: '**01** The Truth Behind Success: Wisdom From A Unicorn Founder'
     mediaLink_supports_youtube_vimeo: ''
     image: /images/09ce8d68-d3ed-4567-93ce-79abdd069e53.JPG
