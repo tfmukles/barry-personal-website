@@ -1,16 +1,8 @@
 ---
-enable: true
+enable: false
 title: 'What is '
 subtitle: 'Barry’s impact makes all the difference at your events. '
 items:
-  - enable: true
-    name: Dan Springer
-    image: /images/1-1-690x381.png
-    designation: DocuSign
-    company: Company
-    quote: >-
-      "Barry IGNITES the transformative spark in others for growth, innovation
-      and impact."
   - enable: true
     name: Matti Anttila
     image: /ypo-logo-white.png
@@ -37,15 +29,6 @@ items:
       built a business unit that grew from $0 to $318 million business unit in
       less than 5-years." 
   - enable: true
-    name: Cameron Wenaus
-    image: /RG.png
-    designation: Retreat.Guru
-    company: CEO & Co-founder
-    quote: >-
-      “Barry is a POWERHOUSE. He must have a small nuclear reactor powering him,
-      as I've never seen such energy and output from one person. He inspires
-      teams to execute.”
-  - enable: true
     name: Klaas Weima
     image: /energize.png
     designation: CEO & Founder
@@ -54,6 +37,14 @@ items:
       “Barry is an ENERGETIC SPEAKER and consultant and blew my clients away at
       a workshop in Amsterdam.”
   - enable: true
+    name: Dan Springer
+    image: /images/1-1-690x381.png
+    designation: DocuSign
+    company: Company
+    quote: >-
+      "Barry IGNITES the transformative spark in others for growth, innovation
+      and impact."
+  - enable: false
     name: Tim Sae Koo
     image: /1heart.webp
     designation: Co-founder
@@ -80,10 +71,20 @@ items:
       in the deepest of ways. I hope EVERYONE can hear Barry share his story and
       perspective - life will never be the same."
   - enable: true
+    name: Cameron Wenaus
+    image: /RG.png
+    designation: Retreat.Guru
+    company: CEO & Co-founder
+    quote: >-
+      “Barry is a POWERHOUSE. He must have a small nuclear reactor powering him,
+      as I've never seen such energy and output from one person. He inspires
+      teams to execute.”
+  - enable: true
     name: Andrew Warner
     image: >-
       /mixergy-logo-for-open-graph-social-sharing-facebook-twitter-1200x630-1.png
     designation: Mixergy.com
     company: CEO & Founder
     quote: “One of my MOST MEMORABLE podcasts was with a guy named Barry Stamos."
+draft: true
 ---
