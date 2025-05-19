@@ -66,4 +66,7 @@ list:
     image: /ibm.png
   - title: 'Allstate '
     image: /Allstate.png
+  - title: FASDFASDA
+    image: /images/1-1-690x381.png
+draft: true
 ---
